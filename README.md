@@ -1,2 +1,2 @@
 # project-dis
-this is practice
+this is practice of git hub projects 
